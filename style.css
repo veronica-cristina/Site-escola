@@ -22,11 +22,11 @@
     font-size: 20px;
 }
 
-.escola-imagem{
+.Sempre-Fashion-imagem{
     width: 25%;
 }
 
-.Sempre Fashion{
+.Sempre-Fashion{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -35,9 +35,9 @@
     padding: 24px 0;
 }
 
-.Sempre Fashion-div-conteudo{
+.Sempre-Fashion-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
+.Sempre-Fashion-titulo{
     padding: 24px 0;
 }
